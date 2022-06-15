@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="detail.xsl"?>
+
+<student>
+	<personal_info><name>Rubini</name>
+	<addr>Madurai</addr>
+	<std>3rd yr</std>
+	<mark>98</mark>
+</personal_info>
+
+<personal_info>
+	<name>Arun</name>
+	<addr>Thiruneveli</addr>
+	<std>3rd year</std>
+	<mark>95</mark>
+</personal_info>
+
+<personal_info>
+	<name>Sree</name>
+	<addr>Kumabakonam</addr>
+	<std>3rd year</std>
+	<mark>98</mark>
+</personal_info>
+
+<personal_info>
+	<name>priya</name>
+	<addr>Pennadam</addr>
+	<std>3rd year</std>
+	<mark>88</mark>
+</personal_info>
+</student>
